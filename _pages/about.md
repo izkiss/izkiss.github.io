@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-István Zoltán Kiss is a Professor in the <a href='https://www.networkscienceinstitute.org/'> Network Science Institute </a> at <a href='https://www.nulondon.ac.uk/'> Northeastern University London </a>. His research is at the interface of network science, dynamical systems and stochastic processes, and concerns both theoretical and data-driven problems. Examples include network inference, exactness of mean-field models, temporal and higher-order networks, adaptive/dynamic networks, resilience of power networks and the study of spreading processes in general.
+István Zoltán Kiss is a Professor at the <a href='https://www.networkscienceinstitute.org/'> Network Science Institute </a>, <a href='https://www.nulondon.ac.uk/'> Northeastern University London </a> and leads the <a href='https://spanlab-london.github.io/'> Systems Processes and Networks Lab</a>. His research is at the interface of network science, dynamical systems and stochastic processes, and concerns both theoretical and data-driven problems. Examples include network inference, exactness of mean-field models, temporal and higher-order networks, adaptive/dynamic networks, resilience of power networks and the study of spreading processes in general.
 <table>
 <tr>
 <td><a href="../images/HexSIRNewV2.png" target="_blank"><img src="../images/HexSIRNewV2.png" style="width:150px;height:114px;"></a></td>
