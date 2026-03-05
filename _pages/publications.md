@@ -77,15 +77,15 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <ol reversed start="107">
 <li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2026). Unveiling individual and collective temporal patterns in the tanker shipping network. <em>Nature Communications</em>. <a href='https://doi.org/10.1038/s41467-026-70013-1'> [html] </a>
 </li>
+</ol>
+
+<H3> 2025</h3>
+<ol reversed start="106">
 <li> Malizia, F., Guzmán, A., Iacopini, I. & Kiss, I.Z., (2025). Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <em>Physical Review Letters</em>, 135, 208301. <a href='https://doi.org/10.1103/z3d5-94zb'> [html] </a> <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a>
 </li>
 <hr>
 <li> Li, Y., Alexander, C., Coulon, M. & Kiss, I.Z., (2025). Trade Dynamics of the Global Dry Bulk Shipping Network. <em>Transportation Research Part E: Logistics and Transportation Review</em>, 206, 104597. <a href='https://www.sciencedirect.com/science/article/pii/S1366554525006258'> [html] </a> 
 </li>
-</ol>
-
-<H3> 2025</h3>
-<ol reversed start="104">
 <li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. & Kiss, I.Z., (2025). Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Complex Networks, 13(4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
 </li>
 <hr>
