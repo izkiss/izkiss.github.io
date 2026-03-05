@@ -86,6 +86,7 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <hr>
 <li> Li, Y., Alexander, C., Coulon, M. & Kiss, I.Z., (2025). Trade Dynamics of the Global Dry Bulk Shipping Network. <em>Transportation Research Part E: Logistics and Transportation Review</em>, 206, 104597. <a href='https://www.sciencedirect.com/science/article/pii/S1366554525006258'> [html] </a> 
 </li>
+<hr>
 <li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. & Kiss, I.Z., (2025). Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Complex Networks, 13(4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
 </li>
 <hr>
