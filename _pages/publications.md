@@ -32,20 +32,20 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 
 <H2> To appear, submitted or in preparation</h2>
-<ol reversed start="111">
-<li> Malizia, F., Guzmán, A., Iacopini, I. & Kiss, I.Z., (2025). Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a> 
+<ol reversed start="114">
+<li> de Meijere, G., Pugliese, A., Iñiguez, G., Simon, P.L. & Kiss, I.Z., (2026). To trace or not to trace: analytical insights from network-based contact-tracing models. <a href='https://arxiv.org/abs/2603.04059'> [arxiv] </a>
+<hr>
+</li>
+<li> Malizia, F., Guzmán, A., Battiston, F. & Kiss, I.Z., (2026). Nested hyperedges promote the onset of collective transitions but suppress explosive behavior. <a href='https://arxiv.org/abs/2601.10522'> [arxiv] </a>
 </li>
 <hr>
-<li> Li, Y., Alexander, C., Coulon, M. & Kiss, I., (2025). Trade Dynamics of the Global Dry Bulk Shipping Network. <a href='https://arxiv.org/abs/2502.00877'> [arxiv] </a> 
-</li>
-<hr>
-<li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2025). Unveiling individual and collective temporal patterns in the tanker shipping network. <a href='https://arxiv.org/abs/2502.19957'> [arxiv] </a> 
+<li> Pant, B., Lalovic, M., Kiss, I.Z. & Santillana, M., (2025). The paradox of neglecting changes in behavior: how standard epidemic models misestimate both transmissibility and final epidemic size. <a href='https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3'> [medrxiv] </a>
 </li>
 </ol>
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="108">
+<ol reversed start="111">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
@@ -69,9 +69,21 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 
 
 <H2>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h2>
+
+<H3> 2026</h3>
+<ol reversed start="107">
+<li> Teo, K., Arnold, N., Hone, A., Coulon, M., Ireland, M., Santillana, M. & Kiss, I.Z., (2026). Unveiling individual and collective temporal patterns in the tanker shipping network. <em>Nature Communications</em>. <a href='https://doi.org/10.1038/s41467-026-70013-1'> [html] </a>
+</li>
+<li> Malizia, F., Guzmán, A., Iacopini, I. & Kiss, I.Z., (2025). Disentangling the role of heterogeneity and hyperedge overlap in explosive contagion on higher-order networks. <em>Physical Review Letters</em>, 135, 208301. <a href='https://doi.org/10.1103/z3d5-94zb'> [html] </a> <a href='https://arxiv.org/abs/2501.17800'> [arxiv] </a>
+</li>
+<hr>
+<li> Li, Y., Alexander, C., Coulon, M. & Kiss, I.Z., (2025). Trade Dynamics of the Global Dry Bulk Shipping Network. <em>Transportation Research Part E: Logistics and Transportation Review</em>, 206, 104597. <a href='https://www.sciencedirect.com/science/article/pii/S1366554525006258'> [html] </a> 
+</li>
+</ol>
+
 <H3> 2025</h3>
 <ol reversed start="104">
-<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. & Kiss, I.Z., (2025). Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Mathematical Biology, 13(4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
+<li> Guzmán, A., Malizia, F., Park, G.H., Choi, B., Cole, D. & Kiss, I.Z., (2025). Inferring contact network characteristics from epidemic data via compact mean-field models. Journal of Complex Networks, 13(4), cnaf018. <a href='https://academic.oup.com/comnet/article/13/4/cnaf018/8202884'> [html] </a>
 </li>
 <hr>
 <li> Kiss, I. Z., Bick, C., & Simon, P. L. (2025). Decoding how higher-order network interactions shape contagion dynamics. Journal of Mathematical Biology, 91(3), 1-27. <a href='https://link.springer.com/article/10.1007/s00285-025-02247-4'> [html] </a>
