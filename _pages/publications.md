@@ -18,7 +18,7 @@ author_profile: true
 
 
 <H2> <a style="color:red;"> Research Highlights </a></h2>
-<ol reversed start="115">
+<ol reversed start="116">
 <!-- <blockquote><div style="background-color:#DCDCDC; color:#000000; font-style: normal;"> -->
 <li> 
 <img src="../images/book_icon_new.jpg" alt="Mountain View" style="width:30px;height:22px;"> 
@@ -32,8 +32,11 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 
 <H2> To appear, submitted or in preparation</h2>
-<ol reversed start="114">
+<ol reversed start="115">
 <li> de Meijere, G., Pugliese, A., Iñiguez, G., Simon, P.L. & Kiss, I.Z., (2026). To trace or not to trace: analytical insights from network-based contact-tracing models. <a href='https://arxiv.org/abs/2603.04059'> [arxiv] </a>
+<hr>
+<li> Guzmán, A., Malizia, F. & Kiss, I.Z., (2026). Unveiling the impact of cross-order hyperdegree correlations in contagion processes on hypergraphs. <a href='https://arxiv.org/abs/2601.15199'> [arxiv] </a>
+</li>
 <hr>
 </li>
 <li> Malizia, F., Guzmán, A., Battiston, F. & Kiss, I.Z., (2026). Nested hyperedges promote the onset of collective transitions but suppress explosive behavior. <a href='https://arxiv.org/abs/2601.10522'> [arxiv] </a>
