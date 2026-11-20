@@ -42,9 +42,6 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 <li> Brázia, J., Kiss, I.Z., Francisco, A.P. & Teixeira, A.S., (2026). Reconstructing MSM Sexual Networks to Guide PrEP Distribution Strategies for HIV Prevention. <a href='https://arxiv.org/abs/2601.04434'> [arxiv] </a>
 </li>
 <hr>
-<li> de Meijere, G., Pugliese, A., Iñiguez, G., Simon, P.L. & Kiss, I.Z., (2026). To trace or not to trace: analytical insights from network-based contact-tracing models. <a href='https://arxiv.org/abs/2603.04059'> [arxiv] </a>
-</li>
-<hr>
 <li> Farkaš, L.N., Morel Balbi, S., Štefančić, H., Kiss, I.Z. & Zlatić, V., (2026). Variance of the SIS Epidemic on Networks: A Diffusion Approximation. <a href='https://arxiv.org/abs/2607.03300'> [arxiv] </a>
 </li>
 <hr>
@@ -63,7 +60,7 @@ Kiss, I. Z., Miller, J. C., & Simon, P. L. (2017). Mathematics of epidemics on n
 
 <H2> In press & published </h2>
 <H3>Book Chapters</h3>
-<ol reversed start="114">
+<ol reversed start="115">
 <li> "Mapping out emerging network structures in dynamic network
 models coupled with epidemics" (with L. Berthouze, J.C. Miller & P.L. Simon) Forthcoming in Temporal Network Epidemiology (2017), Springer, Edited by 
 Petter Holme and Naoki Masuda. <a href='../files/Dynamic_netw_chapter.pdf'> [pdf] </a>
@@ -89,8 +86,11 @@ Imperial College Press, Edited by Stumpf MPH & Wiuf C.
 <H2>Peer-reviewed research papers (graph theory, network science, stochastic processes, dynamical systems, mathematical epidemiology) </h2>
 
 <H3> 2026</h3>
-<ol reversed start="110">
+<ol reversed start="111">
 <li> Malizia, F., Guzmán, A., Battiston, F. & Kiss, I.Z., (2026). Nested hyperedges promote the onset of collective transitions but suppress explosive behavior. <em>Physical Review Letters</em>. <a href='https://doi.org/10.1103/rvlj-fmf9'> [html] </a> <a href='https://arxiv.org/abs/2601.10522'> [arxiv] </a>
+</li>
+<hr>
+<li> de Meijere, G., Pugliese, A., Iñiguez, G., Simon, P.L. & Kiss, I.Z., (2026). To trace or not to trace: analytical insights from network-based contact-tracing models. <em>Journal of Mathematical Biology</em>. <a href='https://doi.org/10.1007/s00285-026-02455-6'> [html] </a> <a href='https://arxiv.org/abs/2603.04059'> [arxiv] </a>
 </li>
 <hr>
 <li> Pant, B., Lalovic, M., Kiss, I.Z. & Santillana, M., (2026). The paradox of neglecting changes in behavior: how standard epidemic models misestimate both transmissibility and final epidemic size. <em>PLOS Computational Biology</em>. <a href='https://doi.org/10.1371/journal.pcbi.1014746'> [html] </a> <a href='https://www.medrxiv.org/content/10.64898/2025.12.07.25341782v3'> [medrxiv] </a>
